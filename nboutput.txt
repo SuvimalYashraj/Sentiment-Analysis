@@ -1,0 +1,4 @@
+deceptive negative C:\CSCI544-NaturalLanguageProcessing\HW1\test\development_data\masked\masked\masked\d_hilton_9 negative decpt.txt
+deceptive positive C:\CSCI544-NaturalLanguageProcessing\HW1\test\development_data\masked\masked\masked\d_knickerbocker_8 positive decept.txt
+truthful negative C:\CSCI544-NaturalLanguageProcessing\HW1\test\development_data\masked\masked\masked\t_conrad_15 negative truth.txt
+truthful positive C:\CSCI544-NaturalLanguageProcessing\HW1\test\development_data\masked\masked\masked\t_homewood_9 positive truth.txt
